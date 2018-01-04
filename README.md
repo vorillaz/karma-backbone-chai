@@ -14,7 +14,7 @@ Installation
 Install as npm module
 
 ```sh
-$ npm install karma-sinon-chai karma-chai-backbone --save-dev
+$ npm install karma-sinon-chai karma-backbone-chai --save-dev
 ```
 
 Add `sinon-chai` and `chai-backbone` to the `frameworks` in your Karma configuration (order is important):
