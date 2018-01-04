@@ -1,0 +1,28 @@
+{
+  "name": "karma-backbone-chai",
+  "version": "0.1.0",
+  "description": "A karma plugin adapter for newest chai-backbone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vorillaz/karma-backbone-chai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vorillaz/karma-backbone-chai/issues"
+  },
+  "keywords": [
+    "karma",
+    "chai",
+    "backbone"
+  ],
+  "author": "Theodore Vorillas <theodorevorillas@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "chai-backbone": "^0.9.4"
+  },
+  "peerDependencies": {
+    "karma": "~0.10",
+    "karma-sinon-chai": "~0.1"
+  }
+}
